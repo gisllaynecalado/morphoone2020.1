@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=kWCUC4bpaYs&list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO&index=5
 1. "The sequence of words which can be moved around in the sentence..." Complete the sentence [starts at around 01:40]
-2. Is Mary read that interesting book in the park. Find the noun phrase constituent. Use the displacement test.
+2. In the sentence 'Mary read that interesting book in the park', find the noun phrase constituent. Use the displacement test.
 3. Notice: in displacement of verb phrases only the non-finite part is displaced. What are non-finite forms of the verbs bring, eat, ring, play? 
 Go to SIEG pg. 36 to answer this question.
 4. She uses tests to show what sequences of words are constituents but notice that there is something else that constituency testing does for you. It shows which
